@@ -98,7 +98,7 @@ enum EyeColor {
 
 interface Student {
     name: string,
-    age: number,
+    age?: number, // optional property
     eyeColor: EyeColor
 }
 

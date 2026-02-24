@@ -1,6 +1,5 @@
 "use strict";
 // Basic Types
-Object.defineProperty(exports, "__esModule", { value: true });
 let age = 25;
 let hobby = "soccer";
 let isAdult = true;
